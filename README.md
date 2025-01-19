@@ -3,7 +3,7 @@ A simple yet powerful Stopwatch app built with vanilla JavaScript, HTML, and CSS
 
 ## Live Demo
 
-Check out the live demo: [Weather App Live Demo](https://stopwatch-app-yuusuf.netlify.app/)
+Check out the live demo: [Stopwatch Live Demo](https://stopwatch-app-yuusuf.netlify.app/)
 
 
 # Preview 
